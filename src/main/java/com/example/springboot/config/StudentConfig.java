@@ -17,7 +17,7 @@ public class StudentConfig {
      * @Bean 标识的方法用于向容器中注入组件
      * 1. 返回值就是注入容器中的组件对象
      * 2. 方法名就是这个组件的 id 值
-     * @return
+     * @return1
      */
     @Bean
     public StudentService studentService() {
