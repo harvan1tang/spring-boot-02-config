@@ -1,0 +1,21 @@
+server:
+ port: 8088
+name: "hello \n ecommerce"
+#student的配置数据
+#student:
+#  id: 3
+#  lastn-_ame: zhangsan
+#  age: 212
+#  email: 123456@qq.com
+#  map:
+#    key1: value1
+#    key2: value2
+#  list:
+#    - one
+#    - two
+#    - three
+#  language:
+#    name: java
+#    level: 2
+#行内写法：
+#student1: {id: 1,lastn-_Ame: zhangsaner,age: 21}
